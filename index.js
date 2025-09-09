@@ -24,8 +24,15 @@ console.log(num2);
 
 var stringa;
 
-stringa = 'il valore della variabile stringa è 4'
+stringa = 4
 
 console.log(stringa);
+
+
+const PIGRECO = 3.14159265359
+
+console.log('il valore della costante PIGRECO è' + PIGRECO);
+
+
 
 
