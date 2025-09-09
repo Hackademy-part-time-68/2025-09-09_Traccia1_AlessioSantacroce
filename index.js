@@ -31,7 +31,7 @@ console.log(stringa);
 
 const PIGRECO = 3.14159265359
 
-console.log('il valore della costante PIGRECO è' + PIGRECO);
+console.log('il valore della costante PIGRECO è ' + PIGRECO);
 
 /// traccia 2 ///
 var stringa2;
@@ -50,6 +50,19 @@ var y
 
 y = x/5
 console.log(y);
+
+/// traccia 3 ///
+var stringa3;
+stringa3 = 'traccia3';
+console.log(stringa3);
+
+var currentYear = 2025;
+var myBirth = 2002;
+var myAge = currentYear - myBirth;
+var almostHundred = 100 - myAge;
+console.log('hai '+ myAge + ' anni e ti mancano '+ almostHundred +' anni per compierne 100 ');
+
+
 
 
 
